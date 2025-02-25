@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cosmicexplorer-kimdaho1/static/css/main.e6c13ad2.css",
-    "main.js": "/cosmicexplorer-kimdaho1/static/js/main.cdfc877d.js",
+    "main.js": "/cosmicexplorer-kimdaho1/static/js/main.2dc84c4e.js",
     "static/js/453.90db3dae.chunk.js": "/cosmicexplorer-kimdaho1/static/js/453.90db3dae.chunk.js",
     "index.html": "/cosmicexplorer-kimdaho1/index.html",
     "main.e6c13ad2.css.map": "/cosmicexplorer-kimdaho1/static/css/main.e6c13ad2.css.map",
-    "main.cdfc877d.js.map": "/cosmicexplorer-kimdaho1/static/js/main.cdfc877d.js.map",
+    "main.2dc84c4e.js.map": "/cosmicexplorer-kimdaho1/static/js/main.2dc84c4e.js.map",
     "453.90db3dae.chunk.js.map": "/cosmicexplorer-kimdaho1/static/js/453.90db3dae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cdfc877d.js"
+    "static/js/main.2dc84c4e.js"
   ]
 }
